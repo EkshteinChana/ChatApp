@@ -1,6 +1,6 @@
 # Chat App!
 
-## tutorial :</h2>
+## tutorial :
 
     You can use this chat in the following way:
     First you must register or log in, in order to enter the chat app.
